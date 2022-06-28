@@ -1,0 +1,114 @@
+#title{
+background-color: #002533;
+color: white;
+/* font-family: 'Montserrat'; */
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+    padding:0 0 4.5rem;
+}
+.navbar-brand{
+    /* font-family: "Ubuntu"; */
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+
+}
+.nav-link{
+    font-size: 1.2rem;
+    /* font-family: "Montserrat-Light"; */
+}
+.title-image1{
+    width: 80%;
+}
+.kat-image{
+    width: 20%;
+    border-radius: 100%;
+}
+#About{
+    text-align: center;
+}
+.skill-image{
+    width: 60px;
+    height: 60px;
+}
+#coding-Skills{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 2%;
+}
+h3{
+    text-align: center;
+}
+.skill-image:hover{
+    
+       
+        box-shadow: 10px 10px 10px #888888;
+      
+}
+#projects{
+    background-color: #002533;
+    padding: 3% 15%;
+    color: #fff;
+}
+.portfolio-images:hover {
+	transform: scale(1.04);
+}
+.portfolio-images {
+    /* display: inline-block; */
+    width: 100%;
+    height: auto;
+    padding-bottom:3%;
+}
+.portfolio-image1{
+display: inline;
+width:300px;
+}
+.skills{
+    text-align: center;
+}
+/* footer add comment*/
+#footer{
+    background-color:white;
+    padding: 3% 10%;
+    text-align: center;
+    
+}
+.h4{
+    text-align: center;
+    padding: 2% 3%;
+}
+.social-media{
+    margin: 20px 10px;
+}
+
+.icon{
+    color:  #0077B5;
+}
+.icon2{
+    color: #25D366;
+}
+.icon3{
+    color: black;
+}
+.icon:hover{
+    color: #00b3b3;
+}
+.icon1:hover{
+    color: darkgray;
+}
+.icon2:hover{
+    color: darkgreen;
+}
+.icon3:hover{
+    color: darkgray;
+}
+.footer-h1{
+    font-weight: bolder;
+}
