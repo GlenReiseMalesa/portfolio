@@ -62,8 +62,8 @@ h3{
 }
 .portfolio-images {
     /* display: inline-block; */
-    width: 100%;
-    height: auto;
+    width: 200px;
+    height: 200px;
     padding-bottom:3%;
 }
 .portfolio-image1{
